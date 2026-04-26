@@ -18,10 +18,10 @@ export default function Footer() {
         </div>
 
         <div className="footer-social">
-          <a href="#" aria-label="Spotify" className="social-link">SP</a>
-          <a href="#" aria-label="Instagram" className="social-link">IG</a>
-          <a href="#" aria-label="YouTube" className="social-link">YT</a>
-          <a href="#" aria-label="Twitter" className="social-link">X</a>
+          <a href="https://open.spotify.com/artist/0K76mvFEKrBdGsB6rxbgha" aria-label="Spotify" className="social-link">SP</a>
+          <a href="https://www.instagram.com/iamdxnzel/" aria-label="Instagram" className="social-link">IG</a>
+          <a href="https://youtube.com/@iamdxnzel?si=jGB-twOHoNMZ1w4Q" aria-label="YouTube" className="social-link">YT</a>
+          <a href="https://x.com/iamdxnzel?s=21" aria-label="Twitter" className="social-link">X</a>
         </div>
       </div>
 
