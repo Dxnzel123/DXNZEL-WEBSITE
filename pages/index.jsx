@@ -113,10 +113,10 @@ export default function Home() {
                 <div className="music-embed-card">
                   <div className="embed-label">Spotify</div>
                   <div className="embed-placeholder">
-                    <p className="embed-note">Replace this iframe with your Spotify embed URL</p>
+                    <p className="embed-note"><iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5kE96uht7eOUtWeBJMTRfo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></p>
                     <iframe
                       className="spotify-embed"
-                      src="https://open.spotify.com/embed/track/YOUR_TRACK_ID?utm_source=generator&theme=0"
+                      src="https://open.spotify.com/embed/track/5kE96uht7eOUtWeBJMTRfo?utm_source=generator&theme=0"
                       width="100%"
                       height="152"
                       frameBorder="0"
@@ -130,10 +130,9 @@ export default function Home() {
                 <div className="music-embed-card">
                   <div className="embed-label">YouTube</div>
                   <div className="yt-embed-wrap">
-                    <p className="embed-note">Replace this iframe src with your YouTube video ID</p>
-                    <iframe
+                    <p className="embed-note"><iframe width="560" height="315" src="https://www.youtube.com/embed/bXVZg1lUigc?si=WvTg-V-7LU6kcpUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                       className="yt-embed"
-                      src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+                      src="https://www.youtube.com/embed/5kE96uht7eOUtWeBJMTRfo"
                       title="DXNZEL YouTube"
                       frameBorder="0"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -195,7 +194,7 @@ export default function Home() {
                   <h2 className="bio-title">The World<br />of DXNZEL</h2>
                   <p className="bio-text">
                     Born from the shadows, forged in sound. DXNZEL is an artist who exists 
-                    at the intersection of darkness and melody — where every track is a 
+                    at the intersection of mystery and melody — where every track is a 
                     portal into a cinematic universe uniquely his own.
                   </p>
                   <p className="bio-text">
