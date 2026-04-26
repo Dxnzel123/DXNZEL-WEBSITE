@@ -3,9 +3,10 @@ import SectionTitle from '../components/SectionTitle';
 import GlitchText from '../components/GlitchText';
 
 const tracks = [
-  { title: 'TRACK ONE', feat: '', spotifyId: 'YOUR_TRACK_ID_1', youtubeId: 'YOUR_YT_ID_1', year: '2024' },
-  { title: 'TRACK TWO', feat: 'feat. Artist', spotifyId: 'YOUR_TRACK_ID_2', youtubeId: 'YOUR_YT_ID_2', year: '2024' },
-  { title: 'TRACK THREE', feat: '', spotifyId: 'YOUR_TRACK_ID_3', youtubeId: 'YOUR_YT_ID_3', year: '2024' },
+  { title: 'TRACK ONE', feat: '', spotifyId: '4MUBLPlWrWFn5eyXvy4B87', youtubeId: 'bXVZg1lUigc', year: '2024' },
+  { title: 'TRACK TWO', feat: 'feat. Artist', spotifyId: '7Hhx8QxQpd7noofHCfgF9j
+', youtubeId: 'GFfyGDdZv18', year: '2024' },
+  { title: 'TRACK THREE', feat: '', spotifyId: '0iFTshveOSDh7R5bDxCj6g', youtubeId: 'RP4tNeefvc', year: '2024' },
 ];
 
 export default function Music() {
