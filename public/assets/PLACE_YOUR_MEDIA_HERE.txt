@@ -1,0 +1,13 @@
+Add your media files here with these exact names:
+
+hero.jpg         — Homepage hero background (1920x1080 min)
+artist.jpg       — Your portrait photo (800x1100 portrait)
+gallery1.jpg     — Gallery image 1
+gallery2.jpg     — Gallery image 2
+gallery3.jpg     — Gallery image 3
+gallery4.jpg     — Gallery image 4
+gallery5.jpg     — Gallery image 5
+gallery6.jpg     — Gallery image 6
+intro.mp4        — Optional: short looping background video (1080p)
+
+See README.md for full instructions.
