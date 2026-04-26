@@ -39,15 +39,15 @@ export default function Contact() {
               <div className="info-items">
                 <div className="info-item">
                   <span className="info-label">Bookings</span>
-                  <span className="info-value">bookings@dxnzel.com</span>
+                  <span className="info-value">the23spaceman@gmail.com.com</span>
                 </div>
                 <div className="info-item">
                   <span className="info-label">Press</span>
-                  <span className="info-value">press@dxnzel.com</span>
+                  <span className="info-value">the23soaceman@gmail.com.com</span>
                 </div>
                 <div className="info-item">
                   <span className="info-label">Management</span>
-                  <span className="info-value">management@dxnzel.com</span>
+                  <span className="info-value">the23spaceman@gmail.com.com</span>
                 </div>
               </div>
 
@@ -83,7 +83,7 @@ export default function Contact() {
                         type="email"
                         name="email"
                         className="form-input"
-                        placeholder="your@email.com"
+                        placeholder="the23spaceman@gmail.com"
                         value={form.email}
                         onChange={handleChange}
                         required
