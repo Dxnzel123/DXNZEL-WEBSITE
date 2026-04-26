@@ -113,7 +113,7 @@ export default function Home() {
                 <div className="music-embed-card">
                   <div className="embed-label">Spotify</div>
                   <div className="embed-placeholder">
-                    <p className="embed-note">Replace this iframe with your Spotify embed URL</p>
+                    <p className="embed-note"><iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5kE96uht7eOUtWeBJMTRfo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></p>
                     <iframe
                       className="spotify-embed"
                       src="https://open.spotify.com/embed/track/YOUR_TRACK_ID?utm_source=generator&theme=0"
@@ -130,7 +130,7 @@ export default function Home() {
                 <div className="music-embed-card">
                   <div className="embed-label">YouTube</div>
                   <div className="yt-embed-wrap">
-                    <p className="embed-note">Replace this iframe src with your YouTube video ID</p>
+                    <p className="embed-note"><iframe width="560" height="315" src="https://www.youtube.com/embed/7RP4tNeefvc?si=czMTvGjjS_iMWHiS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
                     <iframe
                       className="yt-embed"
                       src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
