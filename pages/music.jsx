@@ -4,8 +4,7 @@ import GlitchText from '../components/GlitchText';
 
 const tracks = [
   { title: 'TRACK ONE', feat: '', spotifyId: '4MUBLPlWrWFn5eyXvy4B87', youtubeId: 'bXVZg1lUigc', year: '2024' },
-  { title: 'TRACK TWO', feat: 'feat. Artist', spotifyId: '7Hhx8QxQpd7noofHCfgF9j
-', youtubeId: 'GFfyGDdZv18', year: '2024' },
+  { title: 'TRACK TWO', feat: 'feat. Artist', spotifyId: '7Hhx8QxQpd7noofHCfgF9j', youtubeId: 'GFfyGDdZv18', year: '2024' },
   { title: 'TRACK THREE', feat: '', spotifyId: '0iFTshveOSDh7R5bDxCj6g', youtubeId: 'RP4tNeefvc', year: '2024' },
 ];
 
