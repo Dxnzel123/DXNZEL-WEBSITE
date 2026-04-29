@@ -69,7 +69,7 @@ export default function Home() {
               />
               <video
                 className="hero-video"
-                src="/assets/intro.mp4"
+                src="/assets/intro.MP4"
                 autoPlay
                 muted
                 loop
